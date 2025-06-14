@@ -1,0 +1,4 @@
+create TABLE vehicle (vehicle_No int PRIMARY KEY, vehicle_Type varchar, owner_Name varchar, contact int, color varchar, brand_Name varchar, parked varchar, manager_id int);
+
+
+insert into vehicle values(1,'TwoWheeler','Ankit',1234567890,'black','Tata punch','Parked',123);
