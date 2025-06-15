@@ -1,5 +1,4 @@
 package com.codeOn.ParkingManagementSystem;
-
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -8,6 +7,7 @@ class ParkingManagementSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
